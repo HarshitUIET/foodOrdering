@@ -9,7 +9,3 @@ This guide explains how to clone the repository, build the Docker image, and run
 ```sh
 git clone https://github.com/HarshitUIET/foodOrdering.git
 cd Calculate-delivery
-
-
-
-
